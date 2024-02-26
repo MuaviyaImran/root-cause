@@ -9,8 +9,8 @@ const NavbarMobile = () => {
       <Image
         src="/assets/logo.png"
         alt="Instagram Icon"
-        height={34}
-        width={162}
+        height={28}
+        width={142}
       />
       <div>
         <Image
